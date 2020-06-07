@@ -1,5 +1,9 @@
 Model Accuracy:  0.9754 Validation Accuracy: 0.8285
 
+
+Dataset: https://www.kaggle.com/tongpython/cat-and-dog
+
+
 The model is already trained on the dataset and trained model is also included in this repo.
 
 
